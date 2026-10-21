@@ -1,0 +1,11 @@
+{
+  "name": "CleanURLs",
+  "description": "Removes tracking data garbage from links",
+  "authors": [
+    {
+      "name": "nexpid",
+      "id": "853550207039832084"
+    }
+  ],
+  "main": "index.js"
+}
